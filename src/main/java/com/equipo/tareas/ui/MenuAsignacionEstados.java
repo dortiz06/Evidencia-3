@@ -4,10 +4,6 @@ import com.equipo.tareas.repository.TareaRepository;
 
 import java.util.Scanner;
 
-/**
- * Menú de asignación de responsable, cambio de estado y prioridad.
- * Conectar aquí el servicio de asignación/estados (constructor con TareaRepository).
- */
 public class MenuAsignacionEstados {
 
     private final Scanner scanner;

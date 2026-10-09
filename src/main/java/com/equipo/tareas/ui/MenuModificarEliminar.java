@@ -4,10 +4,6 @@ import com.equipo.tareas.repository.TareaRepository;
 
 import java.util.Scanner;
 
-/**
- * Menú de modificación y eliminación.
- * Conectar aquí el servicio de modificar/eliminar (constructor con TareaRepository).
- */
 public class MenuModificarEliminar {
 
     private final Scanner scanner;

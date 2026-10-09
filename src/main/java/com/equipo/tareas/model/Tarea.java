@@ -12,7 +12,6 @@ public class Tarea {
     private String responsable;
     private String fechaCreacion;
 
-    /** Constructor vacío requerido por Gson. */
     public Tarea() {
     }
 
