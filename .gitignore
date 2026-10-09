@@ -1,0 +1,39 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+nbproject/
+*.nb-ksp
+.nb-gradle/
+
+# Compilados y empaquetados
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos generados en ejecución (se conserva data/.gitkeep)
+data/*.json
+!data/.gitkeep
